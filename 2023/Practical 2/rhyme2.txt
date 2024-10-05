@@ -1,0 +1,26 @@
+[0][0] To UWC computer science year two,
+[0][1] Congratulations, hats off to you!
+[0][2] You made it this far, and that's a fact,
+[0][3] You're on your way to a promising track.
+[0][4] 
+[1][1] You've learned so much, but there's still more,
+[1][2] New challenges, concepts to explore,
+[1][3] From algorithms to software design,
+[1][4] There's so much waiting for you to find.
+[1][5] 
+[2][1] You'll code, debug, and analyze,
+[2][2] Building programs that will surprise,
+[2][3] You'll face bugs and errors, but never fear,
+[2][4] The thrill of success is always near.
+[2][5] 
+[3][1] So keep up the hard work, and never quit,
+[3][2] Coding can be tough, but don't forget,
+[3][3] With each problem you solve, you'll gain more,
+[3][4] And one day, you'll be a coding pro.
+[3][5] 
+[4][1] To UWC computer science year two,
+[4][2] The future is bright, and it's all up to you,
+[4][3] So keep on coding, and never stop,
+[4][4] You'll achieve greatness, we have no doubt!
+
+Author: Yanga Rubushe 4142599
