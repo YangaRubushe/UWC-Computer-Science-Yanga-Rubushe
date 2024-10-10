@@ -95,19 +95,16 @@ In my final year, I focused on specialized topics and a capstone project that ap
 - Software Engineering: Development processes and UML.
 - Database Systems: Design and implementation of relational databases.
 
----
 
 ## How to Use This Repository
 1. **Explore the Directories**: Each year is divided into its own directory containing assignments, projects, and source code.
 2. **Learn by Example**: The projects and assignments offer hands-on examples of core Computer Science principles.
 3. **Expand Your Knowledge**: Each year builds upon the previous, providing a structured approach to learning Computer Science.
 
----
 
-## License
+## [License](./LICENCE)
 This repository is intended for educational purposes. You are free to explore and use the contents for personal learning, but please do not plagiarize any assignments or code. If you share or build upon this work, please provide proper attribution.
 
----
 
 ## Contact
 If you have any questions or suggestions regarding this repository, feel free to reach out to me:
@@ -115,8 +112,5 @@ If you have any questions or suggestions regarding this repository, feel free to
 - **Email**: [Email Me](mailto:zilithemba10@gmail.com)
 - **LinkedIn**: [Yanga Rubushe's LinkedIn](https://www.linkedin.com/in/yangarubushe)
 - **Profile Website**: [yangarubushe.tech](https://yangarubushe.tech)
-
-
----
 
 This `README.md` effectively captures your learning journey throughout your Computer Science degree and can be further tailored to your specific preferences or details!
