@@ -101,10 +101,12 @@ In my final year, I focused on specialized topics and a capstone project that ap
 2. **Learn by Example**: The projects and assignments offer hands-on examples of core Computer Science principles.
 3. **Expand Your Knowledge**: Each year builds upon the previous, providing a structured approach to learning Computer Science.
 
+## Educational Use Disclaimer
+This repository is intended for educational purposes only. You are free to explore and use the contents for personal learning and development, but please do not plagiarize any assignments or code. If you share or build upon this work, you must provide proper attribution to the original author.
 
-## [License](./LICENCE)
-This repository is intended for educational purposes. You are free to explore and use the contents for personal learning, but please do not plagiarize any assignments or code. If you share or build upon this work, please provide proper attribution.
+Additionally, please note that the University of the Western Cape prohibits plagiarism, and any violation of this policy can result in academic consequences. Students should use this repository to guide their learning but are expected to create original work when completing assignments.
 
+For any missing files, feel free to create them yourself or research and find appropriate replacements. The learning process is about building your understanding, so take this as an opportunity to deepen your knowledge. [License](./LICENCE)
 
 ## Contact
 If you have any questions or suggestions regarding this repository, feel free to reach out to me:
