@@ -111,7 +111,7 @@ For any missing files, feel free to create them yourself or research and find ap
 ## Contact
 If you have any questions or suggestions regarding this repository, feel free to reach out to me:
 
-- **Email**: [Email Me](mailto:zilithemba10@gmail.com)
+- **Email**: [Email Me](mailto:yangarubushetech@gmail.com)
 - **LinkedIn**: [Yanga Rubushe's LinkedIn](https://www.linkedin.com/in/yangarubushe)
 - **Profile Website**: [yangarubushe.tech](https://yangarubushe.tech)
 
